@@ -1,0 +1,19 @@
+### Module positions - created on 09/12/18 20:20:25 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+C1        10uF      C_0603                             31.2420    17.7800  270.0000  top
+C2        10uF      C_0603                             33.0200    17.7800  270.0000  top
+C3        10uF      C_0603                             34.8140    17.7800  270.0000  top
+C5        10uF      C_0603                             22.4000    25.6000  270.0000  top
+C6        18pF      C_0603                             29.2000    34.2000    0.0000  top
+C7        18pF      C_0603                             33.4000    34.2000  180.0000  top
+J1        M-BUS     Pin_Header_MBUS_SMD_TH              6.0000    25.0000    0.0000  top
+R1        33        R_0603                             34.4000    26.0000    0.0000  top
+R2        33        R_0603                             34.4000    24.0000    0.0000  top
+R3        2.2k      R_0603                             20.2000    25.6000   90.0000  top
+R4        0         R_0603                             12.8270     6.4770  270.0000  top
+U2        MAX3421E  MAX3421E_TQFP32-5MM                27.8000    25.0000    0.0000  top
+Y1        12MHz     Crystal_SMD_5032-2pin_5.0x3.2mm    31.4000    31.2000    0.0000  top
+## End
