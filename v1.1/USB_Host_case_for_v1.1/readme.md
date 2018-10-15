@@ -1,6 +1,6 @@
 # USB Host shield case data for v.1.1 with spacer
 
-This is a 3D print case data for USB Host shield with the included spacer.
+This is 3D print case data dedicated to the USB host shield with attached spacer.
  - USBHost_12.0mm_for_v1.1.f3d : Fusion 360 format
  - USBHost_12.0mm_for_v1.1.step : STEP format
  - USBHost_12.0mm_for_v1.1.stl : stl format
